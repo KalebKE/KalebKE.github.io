@@ -19,15 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tracqi Technology
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: hello@tracqi.com
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: kalebke.github.io
 url: https://kalebke.github.io
-
 
 # Build settings
 remote_theme: jekyll/minima
